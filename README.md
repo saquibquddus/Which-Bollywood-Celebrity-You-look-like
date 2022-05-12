@@ -10,10 +10,9 @@ Deep learning methods are able to leverage very large datasets of faces and lear
 In this project, you will discover the problem of face recognition and how deep learning methods can achieve superhuman performance to identify similar faces.
 
 ## Original repo:
-https://github.com/entbappy/Which-Bollywood-Celebrity-You-look-like
+https://github.com/saquibquddus/Which-Bollywood-Celebrity-You-look-like
 
-## Demo Video:
-https://www.youtube.com/watch?v=lYSsLFgFzBk&list=PLkz_y24mlSJYI78C1IZJaghNvC7dh6red&index=6
+## Description:
 
 This is a methods of identifying similar faces check various aspects on pictures, including: face shape, nose, eyes and mouth; face position in the picture; skin color (including the lighting of the photo); color and hair and cosine_similarity.
 
@@ -43,13 +42,13 @@ The fun part is I am looked like Ranveer Singh 😄😁
 
 # STEPS to run this project:
 
-You can also use others images instead of bollywood actress
+You can also use others images instead of bollywood actors
 
 ## STEP 01: 
 Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/Which-Bollywood-Celebrity-You-look-like.git
+git clone https://github.com/saquibquddus/Which-Bollywood-Celebrity-You-look-like.git
 ```
 
 ## STEP 02: 
